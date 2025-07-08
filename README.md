@@ -77,9 +77,3 @@ db.users.updateOne({username: "admin"}, {$set: {role: "admin"}})
 - `npm start`     Ejecuta normalmente
 
 
-## Licencia
-MIT
-
----
-
-Repositorio ejemplo. Cambia la URL de github arriba tras subir tu código.
