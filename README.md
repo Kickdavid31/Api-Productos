@@ -15,7 +15,7 @@ API RESTful con Node.js, Express, Mongoose, autenticación JWT & Refresh Token, 
 
 1. Clona el repo y accede al directorio
 ```
-git clone https://github.com/usuario/api-Productos.git
+git clone https://github.com/Kickdavid31/Api-Productos
 cd api-Productos
 ```
 2. Instala dependencias:
